@@ -5,10 +5,21 @@
   --color-card: #ffffff;
   --color-soft: #f3f4f6;
   --color-primary: #111827;
-  --color-secondary: "#374151";
+  --color-secondary: #374151;
   --color-muted: #6b7280;
   --color-light: #fed7aa;
   --color-default: #f97316;
   --color-hover: #ea580c;
   --color-dark: #c2410c;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body,
+html {
+  width: 100%;
+  height: 100%;
 }

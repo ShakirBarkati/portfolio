@@ -6,7 +6,9 @@ function App() {
 
   return (
     <>
-      
+      <main className='bg-main w-full min-h-screen'>
+        
+      </main>
     </>
   )
 }
